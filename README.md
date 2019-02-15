@@ -2,11 +2,11 @@
 
 Prezentacja na spotkaniu https://www.meetup.com/pl-PL/Sztuczna-Inteligencja-Lodz/events/256978379/
 
-Są to **wybrane, wstępne wyniki moich badań etnograficznych**, prowadzonych od 11.2016 w ramach pracy doktorskiej. 
-**Celem pracy jest opisanie środowiska data science w Polsce.**
+Są to **wybrane, wstępne wyniki moich badań etnograficznych**, prowadzonych od 11.2016 w ramach pracy doktorskiej.  
+**Celem pracy jest opisanie środowiska data science w Polsce.**  
 Praca powstaje w Katedrze Socjologii Kultury Uniwersytetu Łódzkiego.
 
-W prezentacji cytuję dosłownie fragmenty z przeprowadzonych przeze mnie wywiadów swobodnych 
+W prezentacji cytuję dosłownie fragmenty z przeprowadzonych przeze mnie wywiadów swobodnych  
 (biały tekst na granatowym tle), są to wypowiedzi osób zajmujących się data science.
 
 Reszta tekstu jest mojego autorstwa.
